@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/daniel03044?theme=light&font=Noto%20Sans%20Thaana&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/daniel03044?theme=dark&font=Noto%20Sans%20Thaana&ext=heatmap)
 
 * made with [LeetCode-Stats-Card](https://github.com/JacobLinCool/leetcode-stats-card)
