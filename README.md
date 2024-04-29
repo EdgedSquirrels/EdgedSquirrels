@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **EdgedSquirrels/EdgedSquirrels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![LeetCode Stats](https://leetcode.card.workers.dev/daniel03044?theme=auto&font=baloo&extension=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/daniel03044?theme=light&font=Noto%20Sans%20Thaana&ext=heatmap)
+
+* made with [LeetCode-Stats-Card](https://github.com/JacobLinCool/leetcode-stats-card)
